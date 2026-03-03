@@ -125,7 +125,7 @@ export default function AboutPage() {
                   className="bg-accent hover:bg-accent-light text-background font-semibold px-8"
                   asChild
                 >
-                  <Link href="/contact">More About Zach</Link>
+                  <a href="https://www.linkedin.com/in/zreznichek/" target="_blank" rel="noopener noreferrer">More About Zach</a>
                 </Button>
               </div>
             </div>
