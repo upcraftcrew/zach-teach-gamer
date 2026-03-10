@@ -542,7 +542,7 @@ export default function MediaPage() {
             
             <div className="mt-8">
               <a
-                href="https://teachergamer.podbean.com/page/2/"
+                href="https://teachergamer.podbean.com/page/1/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center gap-2 px-6 py-3 bg-zinc-800/50 hover:bg-zinc-700/50 text-zinc-400 hover:text-lighter font-medium rounded-full transition-all duration-300 border border-zinc-700 hover:border-accent/50"
